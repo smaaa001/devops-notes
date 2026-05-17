@@ -6,7 +6,7 @@ Basic linux shell command that I use regularly.
 
 ---
 
-### Note: <value> represents a variable to be replaced with actual value
+### Note: `<value>` represents a variable to be replaced with actual value
 
 ## Directory Operations
 
