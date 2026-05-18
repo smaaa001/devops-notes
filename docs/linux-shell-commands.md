@@ -80,6 +80,8 @@ head <filename> -n 5                        # Read first 5 lines
 
 tail <filename> -n 5                        # Read last 5 lines
 
+echo <"some text"> > <filename>             # Overwrite existing
+
 echo <"some text"> >> <filename>            # Append a file
 ```
 

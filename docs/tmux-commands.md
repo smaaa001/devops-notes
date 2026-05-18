@@ -48,7 +48,7 @@ splitw -v                 # split current active window vertically (creates pane
 
 resize-pane -[L|R|D|U] 5          # Resize pane by 5 unit
 
-kill-pane                         # kell active pane
+kill-pane                         # kill active pane
 ```
 
 
